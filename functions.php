@@ -46,7 +46,7 @@ function isKeepSession($info) {
 
 //xss过滤
 function stripStr($str) {
-    if (get_magic_quotes_gpc())
+    if (false)
         $str = stripslashes($str);
     return htmlspecialchars($str, ENT_QUOTES, 'UTF-8');
 }
