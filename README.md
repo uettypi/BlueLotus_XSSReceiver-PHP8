@@ -1,6 +1,6 @@
 # BlueLotus_XSSReceiver-PHP8
 
-#### BlueLotus_XSSReceiver适配PHP8运行环境的版本
+### BlueLotus_XSSReceiver适配PHP8运行环境的版本
 
 本项目为原始项目的一个fork版本
 
@@ -10,13 +10,11 @@
 
 原始协议：[GPL-2.0 license](https://github.com/firesunCN/BlueLotus_XSSReceiver#GPL-2.0-1-ov-file)
 
-##### 改动说明：
+#### 改动说明：
 
 替换或重写了部分在PHP8中已不再支持的语法、函数及模块，使其可以在PHP8环境中运行。
 
-
-
-以下为原始项目的README：
+##### 以下为原始项目的README：
 
 # XSS数据接收平台（无SQL版）
 
